@@ -1,5 +1,5 @@
 {
-    "name":         "battousai/kohana-multilanguage",
+    "name":         "vedmant/kohana-multilanguage",
     "type":         "kohana-module",
     "description":  "Multilanguage support for your site",
     "license":      "MIT",
@@ -16,11 +16,5 @@
         "composer/installers": "~1.0",
         "kohana/core": ">=3.3",
         "php": ">=5.3.3"
-    },
-
-    "extra": {
-        "branch-alias": {
-            "dev-3.2/develop": "3.2.x-dev"
-        }
     }
 }

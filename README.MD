@@ -2,9 +2,8 @@
 
 Multilanguage module for Kohana PHP Framework, version 3.3
 
-Based on this module https://github.com/cichys/kohana-mlang .
-updated for Kohana 3.3 and added some features
-
+Based on this module https://bitbucket.org/Battousai/kohana-multilanguage
+, fixed some bugs and added some improvements
 
 
 ## Configuration
