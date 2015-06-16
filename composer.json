@@ -1,0 +1,26 @@
+{
+    "name":         "battousai/kohana-multilanguage",
+    "type":         "kohana-module",
+    "description":  "Multilanguage support for your site",
+    "license":      "MIT",
+
+    "authors": [
+        {
+            "name": "Mauro Pinto",
+            "email": "mauro.s.pinto@gmail.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "composer/installers": "~1.0",
+        "kohana/core": ">=3.3",
+        "php": ">=5.3.3"
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-3.2/develop": "3.2.x-dev"
+        }
+    }
+}
